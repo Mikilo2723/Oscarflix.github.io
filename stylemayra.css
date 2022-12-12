@@ -1,0 +1,23 @@
+*{
+   background-size: cover;
+}
+.demo{
+   padding: 2em;
+   text-align: center;
+   row-gap: class="card text-bg-dark";
+   
+}
+
+.bb{
+   background-color: #000000;
+
+}
+.img-footer-mayra{
+   width: 120px;
+}
+
+img{
+   width: 300px;
+   height: auto;
+   
+}

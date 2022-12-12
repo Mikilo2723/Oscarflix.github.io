@@ -1,0 +1,26 @@
+.container-fluid{
+    background-image: url("bg.jpeg");
+    width: 100%;
+    height: auto;
+   
+}
+
+.img-series-hero{
+    width: 13%;
+    padding: 1%;
+    background-size: cover;
+    margin-left: 1%;
+}
+.img-series-hero:hover{
+    transform: scale(1.1,1.1);
+    transition: .5s;
+}
+.h2-tittle-cat{
+    font-size: 28px;
+    margin-top: 3%;
+}
+.h2-tittle-cat a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
